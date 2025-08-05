@@ -12,4 +12,6 @@
 [![](https://visitcount.itsvg.in/api?id=Danyil-Sikolenko&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->n fact: ...
--->
+--> React Hosting Project 
+![](https://fascinating-hummingbird-349bb1.netlify.app/)
+![](https://mellow-capybara-08c112.netlify.app/)
